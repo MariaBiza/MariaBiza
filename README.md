@@ -23,6 +23,9 @@
   <a href="https://linkedin.com/in/maria-biza-it" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
+  <a href="https://www.salesforce.com/trailblazer/gz1bvdya8p218wx6rc" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Trailblazer" height="40" width="50" />
+  </a>
   <a href="https://ru.stackoverflow.com/users/415750" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" />
   </a>
