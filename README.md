@@ -12,7 +12,6 @@
 
 ## 👩‍💻 About Me
 
-- 🚀 **Salesforce Developer & Java Backend Developer**
 - ☁️ Hands-on experience with **Apex, SOQL, SOSL, Lightning Web Components (LWC)** and **Salesforce integrations (REST APIs)**
 - 🔧 Skilled in Salesforce configuration & customization: **Flows, Validation Rules, Custom Objects**
 - 🌱 Currently diving deeper into the **Spring Ecosystem, SQL & Database Design**, sharpening my skills in **Spring Boot** and **REST API** development
