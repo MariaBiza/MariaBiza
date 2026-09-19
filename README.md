@@ -39,5 +39,4 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MariaBiza&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
   <img src="https://github-readme-stats.shion.dev/api?username=MariaBiza&show_icons=true&theme=tokyonight&hide_border=true" alt="Maria's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaBiza&theme=tokyonight&hide_border=true" alt="Maria's Streak" height="180" />
 </p>
